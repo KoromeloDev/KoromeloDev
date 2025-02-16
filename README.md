@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">
+  💫 About Me:
+</h1>
 
-<!--
-**KoromeloDev/KoromeloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I currently work for Yandex, but in my spare time I write programs in C++ using Qt framework
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  🌐 Socials:
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://youtube.com/@koromelodev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<h1 align="center">
+  💻 Tech Stack:
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp"/>
+  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="Cmake"/>
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+<h1 align="center">
+  📊 GitHub Stats:
+</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoromeloDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoromeloDev&theme=radical&hide_border=false" alt="Contributions"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoromeloDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages"/>
+</p>
